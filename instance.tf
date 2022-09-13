@@ -5,5 +5,4 @@ resource "aws_instance" "ak" {
   tags= {
      Name= "ak"
   }
-}
-~  
+} 
